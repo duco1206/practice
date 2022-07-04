@@ -2,6 +2,8 @@ practice4：add new file named 'newfile'。
 
 practice6：update some new text。
 
+practice7: Open the repository on GitHub and make changes to newfile.txt
+
 difference between add, commit, and push
 A:
 add 是将本地的修改的内容提交到暂存区；
