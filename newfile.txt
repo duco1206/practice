@@ -1,7 +1,10 @@
-add new file named 'newfile'。
+practice4：add new file named 'newfile'。
+
+practice6：update some new text。
 
 difference between add, commit, and push
 A:
 add 是将本地的修改的内容提交到暂存区；
 commit：将修改之后的文件提交到本地仓库；
 push：将更新之后的本地仓库推送到远程仓库。
+
